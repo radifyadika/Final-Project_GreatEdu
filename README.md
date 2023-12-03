@@ -1,7 +1,7 @@
 # Final-Project_GreatEdu
 GreenEnviro : K-Means Clustering Indonesia Climate
 
-# Brief Project Description
+# Project Description
 This project delved into the intricate patterns of weather using K-Means Clustering method. We then matched these patterns with early warning maps for heavy rain and droughts
 
 To achieve such output, I apply several CRISP-DM Techniques:
